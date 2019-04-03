@@ -1,8 +1,7 @@
 # 错误显示
->[Running] cmd /c "d:\pleiades\workspace\KQ-html\WebContent\arcgis\backup.bat"
->
->d:\pleiades\workspace\KQ-html\WebContent\arcgis>xcopy /Y /E /D "\\172.29.60.1\download\F13074\Downloads\arcgis" "D:\pleiades\workspace\KQ-html\WebContent\arcgis" 
->0 �̃t�@�C�����R�s�[���܂���
+>[Running] cmd /c 
+>...
+> �̃t�@�C�����R�s�[���܂���
 
 >
 >[Done] exited with code=0 in 0.365 seconds
