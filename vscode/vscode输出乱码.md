@@ -1,8 +1,9 @@
 # 错误显示
 >[Running] cmd /c 
+>
 >...
+>
 > �̃t�@�C�����R�s�[���܂���
-
 >
 >[Done] exited with code=0 in 0.365 seconds
 
